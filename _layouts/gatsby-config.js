@@ -8,7 +8,7 @@ module.exports = {
   siteMetadata: {
     // some SEO configs using by gatsby-theme-kb
     title: `Foam`, // Replace it with your site's title
-    author: `Your Name`, // Replace it with your name
+    author: `duzhi`, // Replace it with your name
     description: `My personal knowledge base`, // Replace it with your site's description
   },
   plugins: [
